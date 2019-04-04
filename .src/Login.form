@@ -18,19 +18,12 @@
     Drop = True
   }
   { Button1 Button
-    MoveScaled(61,56,18,8)
+    MoveScaled(46,56,18,8)
     Background = Color.LightGray
     Foreground = Color.Foreground
     ToolTip = ("Search")
     Drop = True
     Text = ("LOGIN")
-  }
-  { Button2 Button
-    MoveScaled(27,56,22,8)
-    Font = Font["Bold,+2"]
-    Background = Color.LightGray
-    Foreground = Color.Foreground
-    Text = ("Exit")
   }
   { Label2 Label
     MoveScaled(27,34,24,4)
