@@ -1,0 +1,15 @@
+# Gambas Project File 3.0
+Startup=Login
+Version=0.0.2
+Component=gb.image
+Component=gb.gui
+Component=gb.form
+Component=gb.db
+Component=gb.report2
+Description="Online Shopping Cart"
+Authors="Debjit Chattpadhyay\nSoumyak Paul"
+TabSize=2
+Language=en_US
+CreateShortcut=1
+ControlPublic=1
+Packager=1
